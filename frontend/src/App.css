@@ -1,0 +1,42 @@
+.App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: translateY(-2px);
+  transition: transform 0.2s ease-in-out;
+}
+
+.btn {
+  border-radius: 6px;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.book-details {
+  border-top: 1px solid #e9ecef;
+  padding-top: 10px;
+  margin-top: 15px;
+}
+
+.alert {
+  border-radius: 8px;
+  border: none;
+}
+
+.form-control {
+  border-radius: 6px;
+}
+
+.input-group-text {
+  border-radius: 6px 0 0 6px;
+}
